@@ -1,0 +1,54 @@
+{
+    "2023": {
+        "May": [
+            "Monday, 1 May 2023 (May Holiday)",
+            "Monday 8 May 2023 (Coronation Public Holiday)",
+            "Thursday, 25 May 2023 (In-service day)",
+            "Friday, 26 May 2023 and Monday, 29 May 2023 (May Weekend)"
+        ],
+        "June": [
+            "Schools Close at 1.00 pm on Friday 23 June 2023"
+        ],
+        "August": [
+            "Monday, 14 August 2023 (Return date for Teachers & In-Service Day)",
+            "Tuesday, 15 August 2023 (In-Service Day",
+            "Wednesday, 16 August 2023 (Return date for Pupils)"
+        ],
+        "September": [
+            "Friday, 22 September and Monday, 25 September 2023 (September weekend holiday)"
+        ],
+        "October": [
+            "Friday, 13 October 2023 (In-Service Day)",
+            "Monday, 16 to Friday, 20 October 2023 (October Week)"
+        ],
+        "December": [
+            "Schools close at 2.30 pm on Friday, 22 December 2023",
+            "Monday, 25 December 2023 - Friday, 5 January 2024 (Christmas holidays)"
+        ]
+    },
+    "2024": {
+        "January": [
+            "Schools return on Monday, 8 January 2024"
+        ],
+        "February": [
+            "Monday, 12 February 2024",
+            "Tuesday, 13 February 2024",
+            "Wednesday, 14 February 2024 (In-service day)"
+        ],
+        "March": [
+            "Schools close at 2.30 pm on Thursday, 28 March 2024",
+            "Good Friday 29 March 2024"
+        ],
+        "April": [
+            "Easter Monday 1 April 2024",
+            "Schools return on Monday, 15 April 2024"
+        ],
+        "May": [
+            "Monday, 6 May 2024 (May Holiday)",
+            "Friday, 24 May 2024 and Monday, 27 May 2024 (May Weekend)"
+        ],
+        "June": [
+            "Schools Close at 1.00 pm on Wednesday 26 June 2024"
+        ]
+    }
+}
